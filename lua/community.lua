@@ -15,5 +15,6 @@ return {
   { import = "astrocommunity.pack.markdown" },
   { import = "astrocommunity.pack.html-css" },
   { import = "astrocommunity.pack.json" },
+  { import = "astrocommunity.media.vim-wakatime" },
   -- import/override with your plugins folder
 }
